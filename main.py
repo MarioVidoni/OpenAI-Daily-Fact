@@ -9,7 +9,7 @@ response = openai.Completion.create(
   model="text-davinci-003",
   prompt="Give a funny, weird or curious fact about programming",
   temperature=0.7,
-  max_tokens=150,
+  max_tokens=200,
   top_p=1,
   frequency_penalty=0,
   presence_penalty=0
@@ -28,6 +28,6 @@ header = '''
 ### today's fact'''
 
 f = open('README.md', 'w')
-f.write(header + "###" + fact)
+f.write(header + fact)
 f.close()
 
