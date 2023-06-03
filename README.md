@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is sometimes referred to as "the art of speaking to computers," since it is the language used to give instructions to computers.
+Programming can be used to create art! There are many programming languages that allow people to create digital art, including Processing, OpenFrameworks, and HTML5.
