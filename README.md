@@ -4,6 +4,6 @@
 
 [![fact](https://github.com/MarioVidoni/openai-daily-fact/actions/workflows/main.yml/badge.svg)](https://github.com/MarioVidoni/openai-daily-fact/actions/workflows/main.yml)
 
-### today's fact###  
+### today's fact  
   
-Programmers sometimes have pet projects that they work on for fun (such as creating games and websites) even when they're not getting paid for it.
+Programming is sometimes referred to as "the art of speaking to computers," since it is the language used to give instructions to computers.
