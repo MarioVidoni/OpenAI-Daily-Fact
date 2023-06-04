@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create art! There are many programming languages that allow people to create digital art, including Processing, OpenFrameworks, and HTML5.
+Programming can be used to create music! There are a variety of languages and tools that allow you to write code that generates music.
