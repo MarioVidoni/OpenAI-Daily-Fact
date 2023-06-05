@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create music! There are a variety of languages and tools that allow you to write code that generates music.
+One of the world's first computer programmers was a woman named Ada Lovelace, who lived in the 1800s. She wrote the first algorithm for a machine that has never been built.
