@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-One of the world's first computer programmers was a woman named Ada Lovelace, who lived in the 1800s. She wrote the first algorithm for a machine that has never been built.
+Programming languages are named after people, for example, the language Java is named after James Gosling.
