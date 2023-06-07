@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming languages are named after people, for example, the language Java is named after James Gosling.
+Programming was first used to create music in the 1950s, long before graphical user interfaces were invented.
