@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was first used to create music in the 1950s, long before graphical user interfaces were invented.
+Programmers have been known to give their programs strange names, such as "Spaghetti Code" or "Monkeypatch".
