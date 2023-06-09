@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers have been known to give their programs strange names, such as "Spaghetti Code" or "Monkeypatch".
+Programming has its own language called "Pig Latin" which is a play on English words.
