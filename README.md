@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming has its own language called "Pig Latin" which is a play on English words.
+Many programmers use a programming language called "Chuck Norris" where all statements evaluate to true.
