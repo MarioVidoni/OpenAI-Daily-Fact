@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Many programmers use a programming language called "Chuck Norris" where all statements evaluate to true.
+Programmers sometimes give their projects funny names, such as "Monkey Business" or "Foo Bar".
