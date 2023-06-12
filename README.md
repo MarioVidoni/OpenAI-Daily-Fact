@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers sometimes give their projects funny names, such as "Monkey Business" or "Foo Bar".
+Programming can be used to create art, such as 3D sculptures and digital paintings!
