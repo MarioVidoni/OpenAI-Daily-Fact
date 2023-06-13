@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create art, such as 3D sculptures and digital paintings!
+In the original version of the programming language C, the keyword "malloc" was originally spelled "malloc" (with just one "l").
