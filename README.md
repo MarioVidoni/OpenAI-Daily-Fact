@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-In the original version of the programming language C, the keyword "malloc" was originally spelled "malloc" (with just one "l").
+Programmers are sometimes known to get so lost in their programming that they forget to eat, sleep, and even take bathroom breaks!
