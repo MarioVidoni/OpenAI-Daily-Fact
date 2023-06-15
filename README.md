@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers are sometimes known to get so lost in their programming that they forget to eat, sleep, and even take bathroom breaks!
+Programming has been used to teach dogs how to play the piano.
