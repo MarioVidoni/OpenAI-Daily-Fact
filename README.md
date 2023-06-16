@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming has been used to teach dogs how to play the piano.
+Programming jokes are a real thing, and they're actually pretty funny!
