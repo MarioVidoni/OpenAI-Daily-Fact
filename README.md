@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming jokes are a real thing, and they're actually pretty funny!
+Sometimes programmers write code to generate random jokes or puns as a way to amuse themselves or make their code more interesting.
