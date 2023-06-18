@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Sometimes programmers write code to generate random jokes or puns as a way to amuse themselves or make their code more interesting.
+A programming language called 'Chef' exists and is used to write programs by writing recipes.
