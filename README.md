@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-A programming language called 'Chef' exists and is used to write programs by writing recipes.
+Programming is so popular that there is a Programming Language Hall of Fame!
