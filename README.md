@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is so popular that there is a Programming Language Hall of Fame!
+Programming was used to create the first computer game in the 1950s, and it was called "Tic-Tac-Toe".
