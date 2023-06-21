@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was used to create the first computer game in the 1950s, and it was called "Tic-Tac-Toe".
+Programming has been used to create AI algorithms that can play the ancient Chinese game Go, which is considered one of the most difficult board games for humans to master.
