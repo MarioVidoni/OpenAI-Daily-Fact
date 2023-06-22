@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming has been used to create AI algorithms that can play the ancient Chinese game Go, which is considered one of the most difficult board games for humans to master.
+Programming was used to create the first computer game, Pong, in 1972.
