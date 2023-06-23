@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was used to create the first computer game, Pong, in 1972.
+Programming is often used to create art, such as music or visual art.
