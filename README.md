@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is often used to create art, such as music or visual art.
+Programming can help you generate a random number between 0 and 1 by just typing "Math.random()" in JavaScript.
