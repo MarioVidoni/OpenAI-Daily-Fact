@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can help you generate a random number between 0 and 1 by just typing "Math.random()" in JavaScript.
+Programming can help create art - some programmers have created generative art using code that can create beautiful and complex designs.
