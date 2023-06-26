@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can help create art - some programmers have created generative art using code that can create beautiful and complex designs.
+Programming is the second most popular hobby in the world, after fishing.
