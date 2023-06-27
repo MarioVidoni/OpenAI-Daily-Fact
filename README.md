@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is the second most popular hobby in the world, after fishing.
+The first programming language, called Plankalkül, was created in 1945 by a German engineer named Konrad Zuse. He wrote it on a 35-meter long sheet of paper!
