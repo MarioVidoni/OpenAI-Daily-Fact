@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-The first programming language, called Plankalkül, was created in 1945 by a German engineer named Konrad Zuse. He wrote it on a 35-meter long sheet of paper!
+Programming was once used to program a robotic puppet called “Shakey” to navigate around a room in 1969.
