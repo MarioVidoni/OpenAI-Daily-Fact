@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was once used to program a robotic puppet called “Shakey” to navigate around a room in 1969.
+Programming has been used to create music for over 50 years, with some of the earliest examples being generated on an IBM 704 computer in 1957.
