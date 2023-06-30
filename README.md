@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming has been used to create music for over 50 years, with some of the earliest examples being generated on an IBM 704 computer in 1957.
+Programmers often use the term "spaghetti code" to refer to code that is poorly written and difficult to read.
