@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers often use the term "spaghetti code" to refer to code that is poorly written and difficult to read.
+Programmers sometimes use the word "goto" to refer to any task that needs to be done quickly.
