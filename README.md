@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers sometimes use the word "goto" to refer to any task that needs to be done quickly.
+Programming was once considered a hobby, not a profession.
