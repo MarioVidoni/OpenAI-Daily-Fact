@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was once considered a hobby, not a profession.
+Programming language Cobol was designed to be English-like so it could be read by business people, not just computer scientists.
