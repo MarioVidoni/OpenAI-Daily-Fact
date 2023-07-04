@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming language Cobol was designed to be English-like so it could be read by business people, not just computer scientists.
+Programming can be used to write computer programs that can solve the Rubik's Cube puzzle.
