@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to write computer programs that can solve the Rubik's Cube puzzle.
+In the programming language of Python, "spam" is a built-in variable.
