@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-In the programming language of Python, "spam" is a built-in variable.
+Programming is sometimes used to control robots to play the game of rock-paper-scissors.
