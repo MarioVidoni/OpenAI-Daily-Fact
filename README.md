@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is sometimes used to control robots to play the game of rock-paper-scissors.
+Programming can be used to create art, such as ASCII art – a form of digital art made up of text characters.
