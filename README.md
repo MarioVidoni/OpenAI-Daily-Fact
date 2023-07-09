@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers have been known to get so into programming that they talk to the computer, believing it will understand and respond.
+Programming is the only job where it's considered normal to talk to your computer.
