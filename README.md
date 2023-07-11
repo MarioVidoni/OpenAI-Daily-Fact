@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers often use the phrase "It works on my machine" to describe situations where something works on their computer but not on someone else's.
+Programming is the only job where it's considered a good thing to be called a "bug".
