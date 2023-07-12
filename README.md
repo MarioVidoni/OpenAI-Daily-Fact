@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is the only job where it's considered a good thing to be called a "bug".
+Programming is used to control a Mars Rover and to take pictures of Mars!
