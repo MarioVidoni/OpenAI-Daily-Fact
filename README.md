@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming language called INTERCAL was created in 1972. Its primary purpose was to make it as different as possible from other programming languages. Its syntax and operations were so strange that it was nicknamed the "only joke in computer science".
+Programming languages can be spoken instead of written, with a computer being able to interpret the spoken words and convert them into code.
