@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming languages can be spoken instead of written, with a computer being able to interpret the spoken words and convert them into code.
+Programming languages are sometimes named after famous people. For example, the programming language Java was named after the coffee, and the language Ruby was named after the singer Ruby Braff.
