@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming language called "Chef" exists, in which instructions are written in a metaphor of cooking recipes.
+Programming can be used to create virtual worlds, such as the popular video game Minecraft.
