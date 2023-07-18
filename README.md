@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create virtual worlds, such as the popular video game Minecraft.
+Programmers sometimes use the term "spaghetti code" to describe code that is written with no structure and is difficult to follow.
