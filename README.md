@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers sometimes use the term "spaghetti code" to describe code that is written with no structure and is difficult to follow.
+Programmers often use the phrase "It works on my machine" to describe when a program runs without errors on their computer, but not on anyone else's.
