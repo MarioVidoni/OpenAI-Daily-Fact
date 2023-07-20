@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers often use the phrase "It works on my machine" to describe when a program runs without errors on their computer, but not on anyone else's.
+Programming has been used to make video games so complex that, in theory, they can never be beaten — even by the game's creator.
