@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming language Ada was named after Augusta Ada Lovelace, a 19th century mathematician and the world's first computer programmer.
+Programming can be used to create video games that teach players how to code.
