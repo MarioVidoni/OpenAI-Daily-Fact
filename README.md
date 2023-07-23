@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create video games that teach players how to code.
+Programming was used to build the first computer game in 1962 called "Spacewar!" and it was created by a group of MIT students.
