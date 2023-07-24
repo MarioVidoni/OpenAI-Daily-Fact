@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was used to build the first computer game in 1962 called "Spacewar!" and it was created by a group of MIT students.
+Programming can be done by anyone - even cats! A cat named Bento has written code for a computer game in the past.
