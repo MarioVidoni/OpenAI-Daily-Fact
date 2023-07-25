@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be done by anyone - even cats! A cat named Bento has written code for a computer game in the past.
+Programming languages are often named after scientists, mathematicians, and other famous figures, such as Python (named after Monty Python) and Java (named after the coffee).
