@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming languages are often named after scientists, mathematicians, and other famous figures, such as Python (named after Monty Python) and Java (named after the coffee).
+Programming was once used to control a nuclear reactor!
