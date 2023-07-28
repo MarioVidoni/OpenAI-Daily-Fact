@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers often use the phrase "There are only two hard things in computer science: cache invalidation and naming things."
+Programming was used to create the world's first video game, Pong!
