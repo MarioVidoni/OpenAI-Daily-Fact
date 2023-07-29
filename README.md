@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was used to create the world's first video game, Pong!
+Programming can help you meet new people - many developers attend events and meetups to share their knowledge and network with other programmers.
