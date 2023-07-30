@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can help you meet new people - many developers attend events and meetups to share their knowledge and network with other programmers.
+Programming can help you make funny faces - some software can generate images of a person with randomly generated facial expressions.
