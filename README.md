@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can help you make funny faces - some software can generate images of a person with randomly generated facial expressions.
+Programming was once done using punch cards, which could be arranged to form a musical tune!
