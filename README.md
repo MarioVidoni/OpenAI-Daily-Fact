@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-A computer programmer in the early 1970s once programmed a computer to play a game of noughts and crosses (tic-tac-toe) against itself and the game ended in a draw.
+The first computer bug was a dead moth that was stuck in a relay of an early computer. The technician who found it taped it to the log book with the words "first actual case of bug being found".
