@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-The first computer bug was a dead moth that was stuck in a relay of an early computer. The technician who found it taped it to the log book with the words "first actual case of bug being found".
+Programming was first used to help engineers design the first IBM computer in the 1940s!
