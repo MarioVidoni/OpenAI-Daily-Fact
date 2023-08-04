@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was first used to help engineers design the first IBM computer in the 1940s!
+A programmer once solved a programming issue by throwing a rubber duck at his computer screen. The duck ended up pressing the right button and the issue was solved.
