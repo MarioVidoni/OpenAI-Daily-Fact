@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-A programmer once solved a programming issue by throwing a rubber duck at his computer screen. The duck ended up pressing the right button and the issue was solved.
+Programming can be done using any language, even a made-up one!
