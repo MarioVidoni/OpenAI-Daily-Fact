@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be done using any language, even a made-up one!
+Programming is often used to create computer viruses and malware, which can be used to cause mischief or even cause serious harm.
