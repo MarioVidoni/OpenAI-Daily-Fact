@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is often used to create computer viruses and malware, which can be used to cause mischief or even cause serious harm.
+Programmers often use the phrase “Hello World” when first learning a new programming language, as it is the universal way of testing out a program to make sure it works.
