@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-In the programming language Python, the value None is not the same as the boolean value False.
+Programming is so popular that in the UK, it is now the most popular A-level subject, overtaking Maths.
