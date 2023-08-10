@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is so popular that in the UK, it is now the most popular A-level subject, overtaking Maths.
+Programming is so popular, it's been used to create an opera. It's called "Hello World: The Opera"!
