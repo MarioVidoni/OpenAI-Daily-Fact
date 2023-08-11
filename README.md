@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is so popular, it's been used to create an opera. It's called "Hello World: The Opera"!
+Programmers often use the phrase "Hello World" as their first program to test a new coding language or platform.
