@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers often use the phrase "Hello World" as their first program to test a new coding language or platform.
+Programmers sometimes use a practice known as "code golf" where they attempt to write the shortest code possible to solve a problem.
