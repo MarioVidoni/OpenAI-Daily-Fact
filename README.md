@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers sometimes use a practice known as "code golf" where they attempt to write the shortest code possible to solve a problem.
+Programming can be used to design computer simulations of worlds that are virtually indistinguishable from reality.
