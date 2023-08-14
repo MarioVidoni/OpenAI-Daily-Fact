@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to design computer simulations of worlds that are virtually indistinguishable from reality.
+Programming has been used to build computer models of cow farts to measure their impact on the environment.
