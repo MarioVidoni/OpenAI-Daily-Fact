@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming has been used to build computer models of cow farts to measure their impact on the environment.
+Programming is often used to control robots in the form of artificial intelligence, which can do everything from play chess to mow the lawn.
