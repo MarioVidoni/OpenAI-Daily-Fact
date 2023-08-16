@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is often used to control robots in the form of artificial intelligence, which can do everything from play chess to mow the lawn.
+Programming can be used to create art, music, and even poetry.
