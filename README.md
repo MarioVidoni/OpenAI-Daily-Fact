@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create art, music, and even poetry.
+Programming is a skill that is believed to be so complex that even computers can’t do it without human intervention.
