@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is a skill that is believed to be so complex that even computers can’t do it without human intervention.
+Programming is sometimes used to create digital art, such as ASCII art, which is made of text characters and symbols.
