@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is sometimes used to create digital art, such as ASCII art, which is made of text characters and symbols.
+Programming can be used to create art, including digital music and 3D sculptures!
