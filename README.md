@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create art, including digital music and 3D sculptures!
+Programming can sometimes be used to create art, such as a computer-generated painting or music.
