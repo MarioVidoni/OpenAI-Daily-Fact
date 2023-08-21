@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can sometimes be used to create art, such as a computer-generated painting or music.
+Programmers sometimes use the term "spaghetti code" to describe code that is poorly written with a tangled structure, like a plate of spaghetti.
