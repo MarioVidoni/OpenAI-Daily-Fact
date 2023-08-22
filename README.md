@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers sometimes use the term "spaghetti code" to describe code that is poorly written with a tangled structure, like a plate of spaghetti.
+Programming has been used to control a Rubik's Cube-solving robot, capable of solving the puzzle in less than two minutes.
