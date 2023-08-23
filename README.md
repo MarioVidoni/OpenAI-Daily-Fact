@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming has been used to control a Rubik's Cube-solving robot, capable of solving the puzzle in less than two minutes.
+Programming is used to control a robotic vacuum cleaner to clean the International Space Station.
