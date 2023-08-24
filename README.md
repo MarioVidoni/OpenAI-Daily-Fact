@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is used to control a robotic vacuum cleaner to clean the International Space Station.
+Programming code is sometimes referred to as “spaghetti code” because of the way it can become tangled and messy.
