@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming code is sometimes referred to as “spaghetti code” because of the way it can become tangled and messy.
+Programmers sometimes use the term "muggle" to refer to someone who is not familiar with programming concepts.
