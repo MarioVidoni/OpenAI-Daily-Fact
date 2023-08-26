@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers sometimes use the term "muggle" to refer to someone who is not familiar with programming concepts.
+Programming language designers often give their creations strange and whimsical names, such as Python, Ruby, Java, and C#.
