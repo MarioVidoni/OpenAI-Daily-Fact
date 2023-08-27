@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming language designers often give their creations strange and whimsical names, such as Python, Ruby, Java, and C#.
+Programming was used to create the first computer game, which was called "Tic-Tac-Toe" and was released in 1952.
