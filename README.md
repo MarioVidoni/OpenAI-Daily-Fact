@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was used to create the first computer game, which was called "Tic-Tac-Toe" and was released in 1952.
+Programming has been used to create music - for example, the song "Daisy Bell" was the first to be performed by a computer in 1961.
