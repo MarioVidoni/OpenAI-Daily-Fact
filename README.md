@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming has been used to create music - for example, the song "Daisy Bell" was the first to be performed by a computer in 1961.
+When the first programming language was developed in the 1950s, it was called “the Automatic Sequence Controlled Calculator” (ASCC) - which is the predecessor to today’s modern programming languages.
