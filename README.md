@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-When the first programming language was developed in the 1950s, it was called “the Automatic Sequence Controlled Calculator” (ASCC) - which is the predecessor to today’s modern programming languages.
+Programming is the only profession where occasionally, the answer to a problem is to add another problem.
