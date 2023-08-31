@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is the only profession where occasionally, the answer to a problem is to add another problem.
+Programmers sometimes use the term "spaghetti code" to refer to a program with a complex and tangled control structure, making it difficult to follow and maintain.
