@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers sometimes use the term "spaghetti code" to refer to a program with a complex and tangled control structure, making it difficult to follow and maintain.
+Programming was used to create the first computer game in 1962, called "Spacewar!" and it ran on a PDP-1 computer at the Massachusetts Institute of Technology.
