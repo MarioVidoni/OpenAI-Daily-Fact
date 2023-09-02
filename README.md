@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was used to create the first computer game in 1962, called "Spacewar!" and it ran on a PDP-1 computer at the Massachusetts Institute of Technology.
+Programming can be used to create art. In fact, some computer programs are so complex that they can generate complex, abstract images with no human input or intervention.
