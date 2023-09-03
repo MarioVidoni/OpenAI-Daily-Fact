@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create art. In fact, some computer programs are so complex that they can generate complex, abstract images with no human input or intervention.
+Programming can be used to control real-life robots, such as the Roomba vacuum cleaner.
