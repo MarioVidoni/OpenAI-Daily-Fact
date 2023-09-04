@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to control real-life robots, such as the Roomba vacuum cleaner.
+Programmers sometimes use the word "goto" as a joke to describe taking an unexpected detour from the normal course of action.
