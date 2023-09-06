@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create computer generated art, such as abstract images, music, and even 3D sculptures!
+Programming languages are often named after famous mathematicians, such as Pascal and Fortran.
