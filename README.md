@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming languages are often named after famous mathematicians, such as Pascal and Fortran.
+Programming was once a profession primarily dominated by women, before the 1980s.
