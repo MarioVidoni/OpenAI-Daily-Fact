@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was once a profession primarily dominated by women, before the 1980s.
+Programming languages are often named after famous people. For example, the programming language Python is named after the British comedy group Monty Python.
