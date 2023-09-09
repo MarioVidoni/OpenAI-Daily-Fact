@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming languages are often named after famous people. For example, the programming language Python is named after the British comedy group Monty Python.
+Programming language “Whitespace” uses only tabs, spaces and linefeeds as its syntax and ignores all other characters.
