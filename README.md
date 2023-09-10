@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming language “Whitespace” uses only tabs, spaces and linefeeds as its syntax and ignores all other characters.
+Programming has been used to create music, such as the song "Daisy Bell" which was the first song ever sung by a computer in 1961.
