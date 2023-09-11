@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming has been used to create music, such as the song "Daisy Bell" which was the first song ever sung by a computer in 1961.
+Programming was invented by a woman named Ada Lovelace, who is often considered the first computer programmer!
