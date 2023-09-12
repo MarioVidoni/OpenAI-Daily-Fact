@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was invented by a woman named Ada Lovelace, who is often considered the first computer programmer!
+Programmers sometimes use the term "spaghetti code" to describe code that is difficult to read and understand.
