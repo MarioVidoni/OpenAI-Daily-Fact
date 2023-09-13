@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers sometimes use the term "spaghetti code" to describe code that is difficult to read and understand.
+Programming has been used to create music and art, including a song composed entirely out of error messages.
