@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming has been used to create music and art, including a song composed entirely out of error messages.
+Programming language "Brainfuck" exists and is made up of only 8 instructions. It is considered one of the most difficult languages to learn.
