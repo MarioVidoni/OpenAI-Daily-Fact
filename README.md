@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming language "Brainfuck" exists and is made up of only 8 instructions. It is considered one of the most difficult languages to learn.
+Programmers sometimes use the term "spaghetti code" to describe a program that is excessively complex and difficult to follow.
