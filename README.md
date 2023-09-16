@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers sometimes use the term "spaghetti code" to describe a program that is excessively complex and difficult to follow.
+You can make a computer laugh by using the command "echo 'ha ha ha' > /dev/null".
