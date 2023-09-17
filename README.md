@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-You can make a computer laugh by using the command "echo 'ha ha ha' > /dev/null".
+Programming can be used to generate music from algorithms. For example, in 2016, Google released an album called "A.I. Duet" which uses machine learning to create unique music when a user plays a melody on the piano.
