@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming language "LOLCODE" exists and is designed to look like chat lingo.
+Programmers often get so absorbed in their work that they forget to eat and even sleep.
