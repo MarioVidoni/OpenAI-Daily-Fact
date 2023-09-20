@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers often get so absorbed in their work that they forget to eat and even sleep.
+Programming is sometimes referred to as "coding" because early computers used punch cards which contained a series of holes representing instructions for the computer.
