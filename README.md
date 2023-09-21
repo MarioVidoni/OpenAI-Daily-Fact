@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is sometimes referred to as "coding" because early computers used punch cards which contained a series of holes representing instructions for the computer.
+Programming is a type of language that can be used to communicate with computers!
