@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is a type of language that can be used to communicate with computers!
+Programming was used to create the world's first computer game, "Tic-Tac-Toe for the Naughts and Crosses Computer", in 1952.
