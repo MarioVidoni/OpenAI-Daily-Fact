@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was used to create the world's first computer game, "Tic-Tac-Toe for the Naughts and Crosses Computer", in 1952.
+Programming was used to create the first computer game, Spacewar! It was created in 1962 by a team of MIT students.
