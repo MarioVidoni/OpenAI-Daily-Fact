@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers often use the phrase "It works on my machine!" to describe a situation where a program runs correctly on their computer, but not on someone else's.
+Programming is sometimes referred to as “wizardry,” as it can often seem like the programmer is performing a kind of magic.
