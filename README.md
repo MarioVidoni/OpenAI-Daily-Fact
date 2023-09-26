@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is sometimes referred to as “wizardry,” as it can often seem like the programmer is performing a kind of magic.
+Programmers often use the term "spaghetti code" to describe code that is difficult to read and understand due to its complexity and tangled structure.
