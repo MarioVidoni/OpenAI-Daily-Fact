@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers often use the term "spaghetti code" to describe code that is difficult to read and understand due to its complexity and tangled structure.
+Programming was used to help launch the first nuclear weapons during World War II.
