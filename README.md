@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was used to help launch the first nuclear weapons during World War II.
+Programming was invented by a woman named Ada Lovelace!
