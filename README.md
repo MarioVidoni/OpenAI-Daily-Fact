@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was invented by a woman named Ada Lovelace!
+Programming is often used to create the special effects in movies, such as the dinosaurs in Jurassic Park and the light sabers in Star Wars.
