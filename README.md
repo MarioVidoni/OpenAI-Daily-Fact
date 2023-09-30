@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is often used to create the special effects in movies, such as the dinosaurs in Jurassic Park and the light sabers in Star Wars.
+Programmers often use the phrase "It works on my machine" to describe an issue where something runs correctly on their machine, but not on others.
