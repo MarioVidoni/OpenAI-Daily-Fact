@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers often use the phrase "It works on my machine" to describe an issue where something runs correctly on their machine, but not on others.
+Programming can be used to create computer-generated art that can be sold for thousands of dollars.
