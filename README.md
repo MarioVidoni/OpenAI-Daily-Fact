@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create computer-generated art that can be sold for thousands of dollars.
+Programmers sometimes use the term 'spaghetti code' to describe code that is difficult to read and understand. The term is derived from the visual similarity of a bowl of spaghetti noodles!
