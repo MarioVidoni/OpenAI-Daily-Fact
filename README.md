@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers sometimes use the term 'spaghetti code' to describe code that is difficult to read and understand. The term is derived from the visual similarity of a bowl of spaghetti noodles!
+Programming language designers often give their languages strange and quirky names, such as Python, Ruby, and Haskell.
