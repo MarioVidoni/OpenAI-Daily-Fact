@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming language designers often give their languages strange and quirky names, such as Python, Ruby, and Haskell.
+Programming was once used to choreograph a ballet performance!
