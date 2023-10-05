@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was once used to choreograph a ballet performance!
+Programming can be used to create computer-generated music that sounds like it was composed by a human.
