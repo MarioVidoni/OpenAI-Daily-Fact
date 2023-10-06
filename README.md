@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create computer-generated music that sounds like it was composed by a human.
+Programming is one of the few fields where it is considered normal to talk to your computer.
