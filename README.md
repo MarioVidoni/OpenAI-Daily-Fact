@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is one of the few fields where it is considered normal to talk to your computer.
+The first computer bug was actually a moth that was stuck in the relay of a Harvard Mark II computer in 1945.
