@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-The first computer bug was actually a moth that was stuck in the relay of a Harvard Mark II computer in 1945.
+Programming is sometimes referred to as "writing magic spells" since programming languages are like a set of instructions to control the behavior of a computer.
