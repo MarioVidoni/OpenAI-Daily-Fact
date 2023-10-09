@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is sometimes referred to as "writing magic spells" since programming languages are like a set of instructions to control the behavior of a computer.
+Programming has been used to create art for decades. In the 1960s, computer scientist A. Michael Noll wrote a program to create abstract images that were exhibited at the Howard Wise Gallery in New York City.
