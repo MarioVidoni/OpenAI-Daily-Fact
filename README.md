@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming has been used to create art for decades. In the 1960s, computer scientist A. Michael Noll wrote a program to create abstract images that were exhibited at the Howard Wise Gallery in New York City.
+Programming was used to make an AI that wrote a movie script that was made into an actual film!
