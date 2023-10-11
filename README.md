@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was used to make an AI that wrote a movie script that was made into an actual film!
+Programming has its own language, called "geek" or "nerd-speak", which is composed of technical jargon and computer acronyms.
