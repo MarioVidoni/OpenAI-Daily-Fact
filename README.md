@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming has its own language, called "geek" or "nerd-speak", which is composed of technical jargon and computer acronyms.
+Programming language is the only language that humans did not invent - it was created by computers.
