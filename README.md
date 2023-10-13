@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming language is the only language that humans did not invent - it was created by computers.
+Programmers have been known to give their computers odd nicknames, such as 'Hal' and 'Sirius'.
