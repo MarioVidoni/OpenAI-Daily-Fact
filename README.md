@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers have been known to give their computers odd nicknames, such as 'Hal' and 'Sirius'.
+Programming language 'LOLCODE' exists, which is a programming language that is designed to look like how people communicate in internet slang.
