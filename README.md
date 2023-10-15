@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming language 'LOLCODE' exists, which is a programming language that is designed to look like how people communicate in internet slang.
+Programmers often use the term “magic” to describe a clever, but obscure solution to a programming problem.
