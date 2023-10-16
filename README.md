@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers often use the term “magic” to describe a clever, but obscure solution to a programming problem.
+Programming language "Brainfuck" contains only 8 instructions, all of which are named after punctuation marks.
