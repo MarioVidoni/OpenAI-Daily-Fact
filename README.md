@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming language "Brainfuck" contains only 8 instructions, all of which are named after punctuation marks.
+Programming can actually be used to create art! There are several programming languages that are specifically designed for creating art, such as Processing and p5.js.
