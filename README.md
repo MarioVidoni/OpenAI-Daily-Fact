@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can actually be used to create art! There are several programming languages that are specifically designed for creating art, such as Processing and p5.js.
+Programming has been used to create art, music, and even poetry!
