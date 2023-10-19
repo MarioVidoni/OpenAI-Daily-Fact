@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming has been used to create art, music, and even poetry!
+Programming has been used to create music that is indistinguishable from human-made compositions.
