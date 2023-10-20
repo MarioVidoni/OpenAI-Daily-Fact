@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming has been used to create music that is indistinguishable from human-made compositions.
+Programming was once used to create the first ever video game, called "Tennis for Two", in 1958.
