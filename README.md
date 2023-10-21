@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was once used to create the first ever video game, called "Tennis for Two", in 1958.
+Programming can be used to compose music! Software such as MusicLab and Ableton Live allow users to create and manipulate sound samples and generate their own musical compositions.
