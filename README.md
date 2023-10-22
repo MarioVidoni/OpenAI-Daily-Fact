@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to compose music! Software such as MusicLab and Ableton Live allow users to create and manipulate sound samples and generate their own musical compositions.
+Programming can be used to create art! Some computer scientists have used programming languages to create digital art.
