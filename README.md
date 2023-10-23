@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create art! Some computer scientists have used programming languages to create digital art.
+Programmers have been known to name their computers after characters from Futurama.
