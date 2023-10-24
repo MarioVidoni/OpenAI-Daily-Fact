@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers have been known to name their computers after characters from Futurama.
+The "Hello World!" program is the most commonly used program to introduce people to programming. It's been used since the 1970s!
