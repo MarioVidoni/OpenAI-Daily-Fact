@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-The "Hello World!" program is the most commonly used program to introduce people to programming. It's been used since the 1970s!
+Programming in ancient times was done using punched cards, where holes in a card represented specific instructions.
