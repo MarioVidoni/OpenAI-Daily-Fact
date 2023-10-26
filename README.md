@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming in ancient times was done using punched cards, where holes in a card represented specific instructions.
+Programming is sometimes used to train Artificial Intelligence, with computers competing against each other to see which can write the most efficient code.
