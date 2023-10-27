@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is sometimes used to train Artificial Intelligence, with computers competing against each other to see which can write the most efficient code.
+Programming can help you predict the future. Many software programs are designed to analyze large amounts of data and make predictions about future trends.
