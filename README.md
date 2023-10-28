@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can help you predict the future. Many software programs are designed to analyze large amounts of data and make predictions about future trends.
+Programming is often used to write music, with the programming language SuperCollider used to compose classical pieces.
