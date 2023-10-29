@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is often used to write music, with the programming language SuperCollider used to compose classical pieces.
+Programming is the only profession in which you can actually write yourself a pay raise.
