@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is the only profession in which you can actually write yourself a pay raise.
+Programming can be used to create artwork, such as computer-generated images, music, and even poetry!
