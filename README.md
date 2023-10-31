@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create artwork, such as computer-generated images, music, and even poetry!
+Programmers often use the phrase "that's a feature, not a bug" to describe unexpected behavior in their code.
