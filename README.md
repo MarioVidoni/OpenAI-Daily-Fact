@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers often use the phrase "that's a feature, not a bug" to describe unexpected behavior in their code.
+Programming can actually be therapeutic! Studies have shown that programming can reduce stress and improve mental health.
