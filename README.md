@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can actually be therapeutic! Studies have shown that programming can reduce stress and improve mental health.
+Programmers often use the phrase "Hello, World!" as their first program, which simply prints the phrase to the screen.
