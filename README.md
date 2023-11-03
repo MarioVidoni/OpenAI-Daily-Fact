@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers often use the phrase "Hello, World!" as their first program, which simply prints the phrase to the screen.
+Programming languages are often named after food. For example, Python, Java, Ruby, and C++.
