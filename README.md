@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming languages are often named after food. For example, Python, Java, Ruby, and C++.
+Programming was once considered a "woman's job" because it was thought to require patience and attention to detail.
