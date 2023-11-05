@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was once considered a "woman's job" because it was thought to require patience and attention to detail.
+Programming is used to make computer programs that control the behavior of robots, including robotic vacuum cleaners that may clean your house while you're away!
