@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is used to make computer programs that control the behavior of robots, including robotic vacuum cleaners that may clean your house while you're away!
+Programmers tend to have a strong preference for snacks like chips and candy while coding.
