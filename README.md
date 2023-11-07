@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers tend to have a strong preference for snacks like chips and candy while coding.
+Programmers sometimes use the term "spaghetti code" to refer to code that is tangled and difficult to understand.
