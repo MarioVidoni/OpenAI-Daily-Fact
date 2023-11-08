@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers sometimes use the term "spaghetti code" to refer to code that is tangled and difficult to understand.
+Programmers sometimes use the term "spaghetti code" to describe a computer program that is written in an overly complicated manner with too many twists and turns.
