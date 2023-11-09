@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers sometimes use the term "spaghetti code" to describe a computer program that is written in an overly complicated manner with too many twists and turns.
+Programmers often use the phrase "computing the unknowable" to describe debugging.
