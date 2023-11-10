@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers often use the phrase "computing the unknowable" to describe debugging.
+Programming languages are sometimes named after famous scientists, such as Python (named after Monty Python) and Ruby (named after the ruby gemstone).
