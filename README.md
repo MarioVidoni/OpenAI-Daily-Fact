@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming languages are sometimes named after famous scientists, such as Python (named after Monty Python) and Ruby (named after the ruby gemstone).
+Programming was once used to control nuclear reactor systems!
