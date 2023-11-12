@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was once used to control nuclear reactor systems!
+Programmers can use the programming language "Emojicode" to write programs with emojis!
