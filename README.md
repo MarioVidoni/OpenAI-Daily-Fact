@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers can use the programming language "Emojicode" to write programs with emojis!
+Programmers often use the term "spaghetti code" to refer to code that is difficult to read and maintain due to its complexity and lack of structure.
