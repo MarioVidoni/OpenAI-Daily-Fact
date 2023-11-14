@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers often use the term "spaghetti code" to refer to code that is difficult to read and maintain due to its complexity and lack of structure.
+Programming has been used to create music, including the first ever computer-generated song, "Daisy Bell" (also known as "Bicycle Built for Two"), written in 1961.
