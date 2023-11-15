@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming has been used to create music, including the first ever computer-generated song, "Daisy Bell" (also known as "Bicycle Built for Two"), written in 1961.
+Programming is sometimes referred to as "coding" because it can be seen as a form of coding instructions for a computer to follow.
