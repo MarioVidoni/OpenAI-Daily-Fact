@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is sometimes referred to as "coding" because it can be seen as a form of coding instructions for a computer to follow.
+Programming is sometimes referred to as "wizardry" because it can appear to be magic to people who don't understand it.
