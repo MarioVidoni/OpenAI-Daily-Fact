@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is sometimes referred to as "wizardry" because it can appear to be magic to people who don't understand it.
+Programming is used to control the International Space Station!
