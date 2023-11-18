@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is used to control the International Space Station!
+Programmers often use the phrase "Hello World" in the first program they create as a way of testing the syntax and structure of a new language.
