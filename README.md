@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers often use the phrase "Hello World" in the first program they create as a way of testing the syntax and structure of a new language.
+Programmers sometimes use the phrase "Hello World" to test their code because the phrase is so universal that almost all programming languages can print it.
