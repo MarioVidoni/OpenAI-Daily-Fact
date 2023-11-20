@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers sometimes use the phrase "Hello World" to test their code because the phrase is so universal that almost all programming languages can print it.
+Programming language designers have been known to include jokes and Easter eggs in their code. For example, in the Python programming language, the code print("Hello World") is followed by the comment "# Love from Python"
