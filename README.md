@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming language designers have been known to include jokes and Easter eggs in their code. For example, in the Python programming language, the code print("Hello World") is followed by the comment "# Love from Python"
+Programming can be used to create art. Animators have used coding to create a digital canvas for their artwork for decades. Some even use code to create interactive digital art pieces.
