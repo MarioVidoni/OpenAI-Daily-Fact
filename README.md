@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create art. Animators have used coding to create a digital canvas for their artwork for decades. Some even use code to create interactive digital art pieces.
+Programming can help create virtual worlds that are so realistic, they can make even experienced programmers feel disoriented!
