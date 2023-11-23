@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can help create virtual worlds that are so realistic, they can make even experienced programmers feel disoriented!
+Programming has been used to create musicals! In 2017, a musical called "Code: The Musical" debuted in New York, featuring a cast of singing computers, robots, and hackers.
