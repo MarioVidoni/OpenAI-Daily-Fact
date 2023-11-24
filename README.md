@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming has been used to create musicals! In 2017, a musical called "Code: The Musical" debuted in New York, featuring a cast of singing computers, robots, and hackers.
+Programmers sometimes use the term "spaghetti code" to describe code that is overly complex and difficult to follow.
