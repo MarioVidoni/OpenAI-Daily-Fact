@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers sometimes use the term "spaghetti code" to describe code that is overly complex and difficult to follow.
+Programmers sometimes use a technique called "code golf" where they try to solve a problem with the fewest characters or lines of code possible.
