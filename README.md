@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers sometimes use a technique called "code golf" where they try to solve a problem with the fewest characters or lines of code possible.
+Programming can be used to create art! Computers are capable of creating complex and beautiful images and animations using algorithms and code.
