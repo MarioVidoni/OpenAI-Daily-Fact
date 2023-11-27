@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create art! Computers are capable of creating complex and beautiful images and animations using algorithms and code.
+Programming can be used to create art such as music, paintings, and 3D models.
