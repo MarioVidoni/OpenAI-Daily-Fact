@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create art such as music, paintings, and 3D models.
+Programming can be used to create a computer simulation of a zombie apocalypse!
