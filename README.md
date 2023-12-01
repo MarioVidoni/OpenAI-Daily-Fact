@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers sometimes intentionally use humorous variable names, like "answerToLifeTheUniverseAndEverything" for the number 42.
+Programming can be used to solve the Rubik's Cube in a fraction of a second.
