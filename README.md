@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to solve the Rubik's Cube in a fraction of a second.
+Programming can be used to create art in the form of generative art, which is art created using algorithms that produce unique and unpredictable pieces.
