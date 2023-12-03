@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create art in the form of generative art, which is art created using algorithms that produce unique and unpredictable pieces.
+Programming is so complex that the first computer bug was actually a real bug - a moth that was stuck in a relay in a Mark II computer in 1947.
