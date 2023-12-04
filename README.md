@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is so complex that the first computer bug was actually a real bug - a moth that was stuck in a relay in a Mark II computer in 1947.
+Programming can be used to create virtual worlds, such as the popular game Minecraft, which is entirely written in Java.
