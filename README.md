@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create virtual worlds, such as the popular game Minecraft, which is entirely written in Java.
+Programming is sometimes referred to as “wizardry” due to its mysterious and seemingly magical nature.
