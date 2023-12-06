@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is sometimes referred to as “wizardry” due to its mysterious and seemingly magical nature.
+Programming can be used to create art and music - some programmers have even created entire musical compositions using only code!
