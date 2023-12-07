@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create art and music - some programmers have even created entire musical compositions using only code!
+Programmers have their own secret language called "code golf" which is used to solve problems in the least amount of characters possible!
