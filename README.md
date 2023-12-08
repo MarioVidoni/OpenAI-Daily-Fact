@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers have their own secret language called "code golf" which is used to solve problems in the least amount of characters possible!
+Programming was once called "software engineering" and was considered a branch of civil engineering.
