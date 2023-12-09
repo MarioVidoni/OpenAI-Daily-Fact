@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was once called "software engineering" and was considered a branch of civil engineering.
+Programming can be used to create virtual pets that live inside your computer and can be interacted with and cared for like real pets.
