@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create virtual pets that live inside your computer and can be interacted with and cared for like real pets.
+Programming is sometimes used to control robots in space, such as the Mars Rover.
