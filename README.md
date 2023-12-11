@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is sometimes used to control robots in space, such as the Mars Rover.
+Programmers sometimes use the term "spaghetti code" to describe code that is tangled and difficult to read.
