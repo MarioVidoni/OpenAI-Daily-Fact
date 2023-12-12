@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers sometimes use the term "spaghetti code" to describe code that is tangled and difficult to read.
+Programming is so popular that some countries have officially declared it a sport!
