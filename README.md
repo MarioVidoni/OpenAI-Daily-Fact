@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is so popular that some countries have officially declared it a sport!
+Programming languages have their own "flavors" just like ice cream! For example, Java is like a vanilla ice cream, while Python is more like a mint chocolate chip.
