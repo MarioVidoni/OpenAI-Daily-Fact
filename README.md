@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming languages have their own "flavors" just like ice cream! For example, Java is like a vanilla ice cream, while Python is more like a mint chocolate chip.
+Programming is used to control the International Space Station, allowing astronauts to monitor and adjust life-support systems from Earth.
