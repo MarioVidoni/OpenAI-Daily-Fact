@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is used to control the International Space Station, allowing astronauts to monitor and adjust life-support systems from Earth.
+Programming has been used to create artworks that have been displayed in galleries and even sold for thousands of dollars!
