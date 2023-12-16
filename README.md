@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming has been used to create artworks that have been displayed in galleries and even sold for thousands of dollars!
+Programmers have used the term "spaghetti code" to describe code that is difficult to read and understand, much like a plate of tangled spaghetti noodles.
