@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers have used the term "spaghetti code" to describe code that is difficult to read and understand, much like a plate of tangled spaghetti noodles.
+Programming can be used to create art! There are a variety of programming languages and frameworks that can be used to create visual art, music, and even poetry.
