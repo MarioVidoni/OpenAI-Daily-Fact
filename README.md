@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming can be used to create art! There are a variety of programming languages and frameworks that can be used to create visual art, music, and even poetry.
+Programming language 'LOLCODE' is a real thing! It is syntactically similar to the English language and was designed to make learning to code more fun and accessible.
