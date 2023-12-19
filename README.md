@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming language 'LOLCODE' is a real thing! It is syntactically similar to the English language and was designed to make learning to code more fun and accessible.
+When the first computer virus, known as the Creeper virus, was discovered in 1971, it displayed the message "I'm the creeper, catch me if you can!"
