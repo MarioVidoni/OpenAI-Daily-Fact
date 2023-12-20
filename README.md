@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-When the first computer virus, known as the Creeper virus, was discovered in 1971, it displayed the message "I'm the creeper, catch me if you can!"
+It is possible for a computer program to be granted a patent in some countries.
