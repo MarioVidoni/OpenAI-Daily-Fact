@@ -4,6 +4,6 @@
 
 [![fact](https://github.com/MarioVidoni/openai-daily-fact/actions/workflows/main.yml/badge.svg)](https://github.com/MarioVidoni/openai-daily-fact/actions/workflows/main.yml)
 
-### today's fact  
+### today's fact:  
   
-It is possible for a computer program to be granted a patent in some countries.
+Programming is considered one of the most sought-after jobs, yet there is no formal education required to become a programmer - all you need is a passion for problem-solving and the willingness to learn!
