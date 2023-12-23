@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming has been used to create computer programs that compose music, write books, and even play chess.
+Programming was featured in an episode of the popular US sitcom The Big Bang Theory. In the episode, one of the characters wrote a computer program to prove the existence of God.
