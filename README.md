@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming was featured in an episode of the popular US sitcom The Big Bang Theory. In the episode, one of the characters wrote a computer program to prove the existence of God.
+Programmers have been known to get so engrossed in coding that they forget to eat, sleep, and even take breaks to use the restroom!
