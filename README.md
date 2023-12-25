@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers have been known to get so engrossed in coding that they forget to eat, sleep, and even take breaks to use the restroom!
+Programmers often use the term "spaghetti code" to describe code that is difficult to read and understand because it is written in a tangled and convoluted way.
