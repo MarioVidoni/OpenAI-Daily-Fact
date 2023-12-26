@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers often use the term "spaghetti code" to describe code that is difficult to read and understand because it is written in a tangled and convoluted way.
+Programming is so precise that the position of a single comma can cause a program to crash.
