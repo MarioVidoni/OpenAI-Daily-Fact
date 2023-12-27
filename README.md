@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is so precise that the position of a single comma can cause a program to crash.
+Programming is so complex that it has its own language called "programming language"!
