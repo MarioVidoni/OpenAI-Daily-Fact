@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is so complex that it has its own language called "programming language"!
+Programmers have been known to get so engrossed in their work that they forget to eat, sleep, and even attend important events such as weddings and funerals!
