@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers have been known to get so engrossed in their work that they forget to eat, sleep, and even attend important events such as weddings and funerals!
+The programming language COBOL was invented in 1959 and is still used today to maintain legacy systems.
