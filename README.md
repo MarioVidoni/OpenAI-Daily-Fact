@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Some programmers have a superstition that the number 13 is unlucky, and therefore avoid declaring variables with that number in their names.
+Programming language named "CoffeeScript" is actually a real thing! It was created as a way to make JavaScript easier to read and write.
