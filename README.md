@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming language named "CoffeeScript" is actually a real thing! It was created as a way to make JavaScript easier to read and write.
+Programming is often considered the closest thing to a real-life superpower, as it allows people to create almost anything with a few lines of code.
