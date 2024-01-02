@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is often considered the closest thing to a real-life superpower, as it allows people to create almost anything with a few lines of code.
+Programming language "F#" stands for "F-sharp" which is named after the musical note.
