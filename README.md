@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming language "F#" stands for "F-sharp" which is named after the musical note.
+Programming language 'intercal' was designed to make it as difficult as possible to write programs.
