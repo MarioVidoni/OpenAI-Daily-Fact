@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming language 'intercal' was designed to make it as difficult as possible to write programs.
+Programming was used to create the first ever computer game in 1958, a game called Tennis For Two which was played on an oscilloscope.
