@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Most computer programs are written in a language called C++, but the first ever programming language was called "Fortran" - which stands for Formula Translator!
+Programmers sometimes use the term "spaghetti code" to describe code that has become tangled and difficult to read or debug.
