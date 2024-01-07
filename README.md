@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programmers sometimes use the term "spaghetti code" to describe code that has become tangled and difficult to read or debug.
+Programming is the only profession where debugging is expected and celebrated!
