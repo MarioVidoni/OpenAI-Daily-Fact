@@ -6,4 +6,4 @@
 
 ### today's fact  
   
-Programming is the only profession where debugging is expected and celebrated!
+Programming was once used to create some of the first computer games, including tic-tac-toe, chess, and the classic game of pong.
