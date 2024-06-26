@@ -5,5 +5,5 @@
 [![fact](https://github.com/MarioVidoni/openai-daily-fact/actions/workflows/main.yml/badge.svg)](https://github.com/MarioVidoni/openai-daily-fact/actions/workflows/main.yml)
 
 ### Today's fact
-
-In 1998, a programmer at Microsoft mistakenly used the word "B0rked" in a code comment instead of "borked" (meaning broken). The term has since become a popular slang term in the programming community to describe something that is broken or not working properly.
+# 
+Did you know that the term "bug" in programming originated from an actual bug getting stuck in a computer and causing it to malfunction? In 1947, a moth was found trapped in a relay of the Harvard Mark II computer, leading to the term "debugging" to describe fixing errors in code.
