@@ -3,21 +3,13 @@ import openai, sys
 # Access the key from the .env file on the root
 openai.api_key = sys.argv[1]
 
-
-# Make a completion request to the OpenAI API
-response = openai.Completion.create(
-  model="gpt-3.5-turbo-instruct",
-  prompt="Give a funny, weird or curious fact about programming",
-  temperature=0.7,
-  max_tokens=256,
-  top_p=1,
-  frequency_penalty=0,
-  presence_penalty=0
+response = openai.chat.completions.create(
+    model="gpt-3.5-turbo-0125",
+    messages=[{"role": "user", "content": "Give a funny, weird or curious fact about programming"}],
+    temperature=0.7
 )
 
-fact = response['choices'][0]['text'].replace('\n', '  \n')
-
-
+fact = response.choices[0].message.content
 
 header = '''
 # Openai-random-fact
@@ -30,4 +22,3 @@ header = '''
 f = open('README.md', 'w')
 f.write(header + fact)
 f.close()
-
