@@ -6,7 +6,7 @@ openai.api_key = sys.argv[1]
 
 # Make a completion request to the OpenAI API
 response = openai.Completion.create(
-  model="text-davinci-003",
+  model="gpt-3.5-turbo-instruct",
   prompt="Give a funny, weird or curious fact about programming",
   temperature=0.7,
   max_tokens=256,
