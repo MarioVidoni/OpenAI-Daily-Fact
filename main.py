@@ -1,4 +1,4 @@
-import openai, os, sys
+import openai, sys
 
 # Access the key from the .env file on the root
 openai.api_key = sys.argv[1]
@@ -25,7 +25,7 @@ header = '''
 
 [![fact](https://github.com/MarioVidoni/openai-daily-fact/actions/workflows/main.yml/badge.svg)](https://github.com/MarioVidoni/openai-daily-fact/actions/workflows/main.yml)
 
-### today's fact'''
+### Today's fact'''
 
 f = open('README.md', 'w')
 f.write(header + fact)
