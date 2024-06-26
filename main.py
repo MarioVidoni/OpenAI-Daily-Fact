@@ -17,7 +17,9 @@ header = '''
 
 [![fact](https://github.com/MarioVidoni/openai-daily-fact/actions/workflows/main.yml/badge.svg)](https://github.com/MarioVidoni/openai-daily-fact/actions/workflows/main.yml)
 
-### Today's fact'''
+### Today's fact
+# 
+'''
 
 f = open('README.md', 'w')
 f.write(header + fact)
