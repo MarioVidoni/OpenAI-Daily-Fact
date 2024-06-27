@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the term "bug" in programming originated from an actual bug getting stuck in a computer and causing it to malfunction? In 1947, a moth was found trapped in a relay of the Harvard Mark II computer, leading to the term "debugging" to describe fixing errors in code.
+The term "bug" to describe a programming error was coined in the 1940s when a moth got stuck in a relay in an early computer, causing it to malfunction. The technicians referred to the issue as a "bug" and the term stuck ever since.
