@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-The term "bug" to describe a programming error was coined in the 1940s when a moth got stuck in a relay in an early computer, causing it to malfunction. The technicians referred to the issue as a "bug" and the term stuck ever since.
+In 1996, a programmer in the UK mistakenly caused a massive financial crash by accidentally deleting $2.6 billion worth of stocks with a single line of code.
