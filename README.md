@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-In 1996, a programmer in the UK mistakenly caused a massive financial crash by accidentally deleting $2.6 billion worth of stocks with a single line of code.
+The term "bug" in computer programming originated from an actual bug - a moth that got stuck in a relay of the Harvard Mark II computer in 1947, causing a malfunction. The technicians removed the moth and taped it to the logbook with the notation "first actual case of bug being found."
