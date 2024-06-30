@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-The term "bug" in computer programming originated from an actual bug - a moth that got stuck in a relay of the Harvard Mark II computer in 1947, causing a malfunction. The technicians removed the moth and taped it to the logbook with the notation "first actual case of bug being found."
+In 1991, a programmer named Bill Gates purchased the rights to the operating system DOS for $50,000 and then went on to build his empire with Microsoft.
