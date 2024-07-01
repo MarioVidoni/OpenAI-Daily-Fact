@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-In 1991, a programmer named Bill Gates purchased the rights to the operating system DOS for $50,000 and then went on to build his empire with Microsoft.
+Did you know that the first computer bug was actually a real bug? In 1947, a moth got trapped in a relay of the Harvard Mark II computer, causing a malfunction. This is where the term "bug" in programming comes from!
