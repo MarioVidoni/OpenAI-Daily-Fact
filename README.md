@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first computer bug was actually a real bug? In 1947, a moth got trapped in a relay of the Harvard Mark II computer, causing a malfunction. This is where the term "bug" in programming comes from!
+In the early days of programming, computer programmers used to literally "debug" their programs by removing actual insects (like moths) from hardware components, leading to the term "debugging" for fixing coding errors.
