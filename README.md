@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-In the early days of programming, computer programmers used to literally "debug" their programs by removing actual insects (like moths) from hardware components, leading to the term "debugging" for fixing coding errors.
+In 1999, a programmer released a virus called "ILOVEYOU" that caused billions of dollars in damages by spreading through email and deleting files on infected computers. The virus was so effective because the subject line of the email containing it was simply "ILOVEYOU," prompting unsuspecting recipients to open it.
