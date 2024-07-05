@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-In 1991, a programmer named Bill Gates reportedly wrote a computer virus called "Christmas Tree EXEC" that would display a Christmas tree on the user's screen while deleting files in the background.
+In 1990, a programmer named Richard Skrenta created the first computer virus, known as "Brain," as a prank to infect Apple II computers. It displayed a message that said, "Welcome to the Dungeon," and spread by infecting floppy disks.
