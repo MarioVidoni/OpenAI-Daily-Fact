@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-In 1999, a programmer at Microsoft mistakenly left a debugging command in the final release version of Windows 2000. This command would display the message "Your computer is now Stoned!" whenever the computer crashed.
+In 1995, a programmer named Bob Bemer famously inserted a joke into the Universal Character Set, causing the letter "Æ" to be officially known as the "ash" symbol in reference to the fictional creature from the Alien movies.
