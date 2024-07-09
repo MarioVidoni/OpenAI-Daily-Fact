@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-In 1995, a programmer named Bob Bemer famously inserted a joke into the Universal Character Set, causing the letter "Æ" to be officially known as the "ash" symbol in reference to the fictional creature from the Alien movies.
+The term "bug" in computer programming comes from an actual insect. In 1947, computer scientist Grace Hopper found a moth stuck in one of Harvard's Mark II computers, causing it to malfunction. She taped the moth in her logbook and wrote "First actual case of bug being found." This is where the term "debugging" comes from.
