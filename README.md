@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-The term "bug" in computer programming comes from an actual insect. In 1947, computer scientist Grace Hopper found a moth stuck in one of Harvard's Mark II computers, causing it to malfunction. She taped the moth in her logbook and wrote "First actual case of bug being found." This is where the term "debugging" comes from.
+In the early days of programming, developers used punch cards to write and store code. If a programmer dropped their stack of punch cards, they could spend hours sorting them back into the correct order. This led to the term "debugging" being coined to describe the process of fixing errors in code.
