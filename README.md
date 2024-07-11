@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-In the early days of programming, developers used punch cards to write and store code. If a programmer dropped their stack of punch cards, they could spend hours sorting them back into the correct order. This led to the term "debugging" being coined to describe the process of fixing errors in code.
+Did you know that the term "bug" in programming actually originated from a real insect? In 1947, computer scientist Grace Hopper discovered a moth stuck in one of the circuits of a computer and referred to it as the "first actual case of bug being found". Since then, the term "bug" has been commonly used to describe any issue or glitch in a program.
