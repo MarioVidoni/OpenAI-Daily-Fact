@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the term "bug" in programming originated when a moth got stuck in a Harvard Mark II computer in 1947, causing a malfunction? The technicians who found the moth taped it to their logbook with the note "first actual case of bug being found."
+In the early days of programming, computer programmers used to wear suits and ties to work because they were seen as "professionals." This led to the stereotype of programmers being socially awkward individuals who always wear geeky clothing.
