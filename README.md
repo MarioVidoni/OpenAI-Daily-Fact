@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-In the early days of programming, computer programmers used to wear suits and ties to work because they were seen as "professionals." This led to the stereotype of programmers being socially awkward individuals who always wear geeky clothing.
+In the early days of programming, programmers used to literally "debug" their code by removing actual bugs (insects) from their computers. This practice was famously done by Grace Hopper, who found a moth stuck in a relay of the Harvard Mark II computer in 1947 and coined the term "debugging."
