@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-In the early days of programming, programmers used to literally "debug" their code by removing actual bugs (insects) from their computers. This practice was famously done by Grace Hopper, who found a moth stuck in a relay of the Harvard Mark II computer in 1947 and coined the term "debugging."
+Did you know that the term "bug" to describe a programming error originated in the 1940s when a moth got trapped in a relay of the Harvard Mark II computer? The operators removed the moth and taped it to their logbook with the note "First actual case of bug being found."
