@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the term "bug" to describe a programming error originated in the 1940s when a moth got trapped in a relay of the Harvard Mark II computer? The operators removed the moth and taped it to their logbook with the note "First actual case of bug being found."
+Did you know that the term "bug" in programming actually originates from a real bug? In 1947, computer scientist Grace Hopper found a moth stuck in a relay of the Harvard Mark II computer, causing it to malfunction. She removed the bug and taped it to her logbook, coining the term "debugging" to describe the process of fixing errors in code.
