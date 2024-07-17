@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the term "bug" in programming actually originates from a real bug? In 1947, computer scientist Grace Hopper found a moth stuck in a relay of the Harvard Mark II computer, causing it to malfunction. She removed the bug and taped it to her logbook, coining the term "debugging" to describe the process of fixing errors in code.
+The term "bug" in programming actually originated from a real insect causing a malfunction in a computer in 1947. The bug was found and removed, and the term has stuck ever since to describe any issue in a program.
