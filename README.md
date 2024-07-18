@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-The term "bug" in programming actually originated from a real insect causing a malfunction in a computer in 1947. The bug was found and removed, and the term has stuck ever since to describe any issue in a program.
+In the early days of programming, computer memory was so limited that programmers had to optimize their code by hand, including counting the number of characters in their code to ensure it would fit within the memory constraints. This led to the creation of "code golf", a competition where programmers try to write the shortest possible code to solve a given problem.
