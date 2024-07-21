@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-In computer programming, the term "bug" originated from an actual insect getting stuck in a relay of the Harvard Mark II computer in 1947, causing a malfunction. Ever since then, software glitches have been referred to as "bugs."
+In 1990, a programmer named Hasegawa Tsuyoshi accidentally deleted his entire project in a fit of rage. He then went on to create the "undo" function, which is now a staple feature in most programming software.
