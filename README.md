@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-In 1990, a programmer named Hasegawa Tsuyoshi accidentally deleted his entire project in a fit of rage. He then went on to create the "undo" function, which is now a staple feature in most programming software.
+The term "bug" in programming actually originated from a real insect. In 1947, computer scientist Grace Hopper found a moth stuck in a relay of the Harvard Mark II computer, causing a malfunction. She removed the moth and taped it to the computer's logbook, labeling it as the "first actual case of bug being found." This incident led to the use of the term "bug" to describe programming errors.
