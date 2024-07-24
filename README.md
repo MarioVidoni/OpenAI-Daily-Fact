@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-In 1991, a programmer named Loren Brichter accidentally created the "pull-to-refresh" feature while trying to fix a bug in the Twitter app.
+In 1990, a programmer named Bob Neveln created a program called "Minesweeper" to teach himself Windows programming. Little did he know that it would become one of the most popular and addictive computer games of all time.
