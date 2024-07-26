@@ -5,8 +5,12 @@ openai.api_key = sys.argv[1]
 
 response = openai.chat.completions.create(
     model="gpt-3.5-turbo-0125",
-    messages=[{"role": "user", "content": "Give a funny, weird or curious fact about programming"}],
-    temperature=0.7
+    messages=[
+        {"role": "system", "content": "You are a curious assistant."},
+        {"role": "user", "content": "Give a funny, weird, curious or random fact about programming that could be actual or historical."}
+    ],
+    temperature=0.95,
+    n=1
 )
 
 fact = response.choices[0].message.content
