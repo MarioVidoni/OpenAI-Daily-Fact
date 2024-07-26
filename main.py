@@ -4,7 +4,7 @@ import openai, sys
 openai.api_key = sys.argv[1]
 
 response = openai.chat.completions.create(
-    model="gpt-3.5-turbo-0125",
+    model="gpt-4",
     messages=[
         {"role": "system", "content": "You are a curious assistant."},
         {"role": "user", "content": "Give a funny, weird, curious or random fact about programming that could be actual or historical."}
