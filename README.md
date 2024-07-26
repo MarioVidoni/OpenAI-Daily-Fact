@@ -6,4 +6,6 @@
 
 ### Today's fact
 # 
-Did you know that the term "bug" in reference to a glitch in a computer program was first used in 1947 after a moth got trapped in a relay of the Harvard Mark II computer, causing a malfunction? The operators referred to the issue as a "bug" and the term has been used ever since to describe unexpected problems in software.
+Sure, here's a curious and historical fact about programming: 
+
+The first known computer programmer was actually a woman, Ada Lovelace. She worked on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine, back in the 19th century. In her notes on the engine, she included what is now recognized as the first algorithm intended to be processed by a computer and is hence considered the world's first computer programmer. Ironically, this was in a time when women were considered not apt for scientific fields!
