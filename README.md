@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-In the early days of programming, computer programmers had to physically punch holes in cards to input code into a computer. This was a tedious and time-consuming process, and if a mistake was made, they had to start all over again. This led to the popular saying among programmers: "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors."
+The term "bug" in computer programming actually comes from a real bug! In 1947, Grace Hopper discovered an actual moth causing a problem in a Mark II computer and taped it to the log book with the note "First actual case of bug being found." This is where the term "debugging" comes from.
