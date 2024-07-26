@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-The term "bug" in computer programming actually comes from a real bug! In 1947, Grace Hopper discovered an actual moth causing a problem in a Mark II computer and taped it to the log book with the note "First actual case of bug being found." This is where the term "debugging" comes from.
+Did you know that the term "bug" in reference to a glitch in a computer program was first used in 1947 after a moth got trapped in a relay of the Harvard Mark II computer, causing a malfunction? The operators referred to the issue as a "bug" and the term has been used ever since to describe unexpected problems in software.
