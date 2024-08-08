@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first computer "bug" was actually a real bug? In 1947, a moth flew into one of the relays in the Harvard Mark II computer and its presence disrupted the operations. The operators "debugged" the machine by removing the insect, and thus originated the term "debugging" in the context of computer science. This makes "debugging" one of the few programming terms steeped in a literal truth!
+Did you know the first programmer in history was a woman? Her name was Ada Lovelace and she worked on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine, in the mid-1800s. So, the history of programming is actually attributed to a woman, even though today the field is predominantly male-dominated!
