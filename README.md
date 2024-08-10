@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first computer "bug" was an actual real-life bug? Back in 1947, Grace Hopper, a computer programmer in the U.S. Navy, found a moth inside a computer she was working on. The moth was causing the computer to malfunction and led her to the term "Debugging", which is now used to refer to the process of removing errors from code.
+Did you know that the first computer "bug" was actually a real insect? In 1947, a moth got trapped in a relay of a Mark II computer at Harvard University. The operators, including Grace Hopper who's a computing pioneer, removed the moth and taped it into the log book, coining the term "debugging". So, the next time you're debugging your code, remember you're figuratively hunting for "insects" in your programming!
