@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first computer "bug" was actually a real insect? In 1947, a moth got trapped in a relay of a Mark II computer at Harvard University. The operators, including Grace Hopper who's a computing pioneer, removed the moth and taped it into the log book, coining the term "debugging". So, the next time you're debugging your code, remember you're figuratively hunting for "insects" in your programming!
+Did you know that the first computer programmer was a woman? Ada Lovelace, an English mathematician and writer, is recognized as the world's first programmer. In the mid-1800s, she developed an algorithm intended to be processed by Charles Babbage's Analytical Engine, a general-purpose mechanical computer that was never built. So technically, she wrote code for a machine that didn't even exist yet!
