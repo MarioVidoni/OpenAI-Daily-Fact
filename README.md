@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first computer programmer was a woman named Ada Lovelace? This is quite curious because at that time, in the 19th century, it was rare even for women to be scientifically educated. Ada wrote the world's first machine algorithm for an early computing machine. Amazingly, her work later inspired Alan Turing's work on the first modern computers in the 1940s.
+The first computer bug was an actual bug! In 1947, Grace Hopper, a computer scientist, removed a moth from the inside of her computer. Not only was this the first instance of a bug causing a technical glitch, but it's also the origin of the term "debugging" a program.
