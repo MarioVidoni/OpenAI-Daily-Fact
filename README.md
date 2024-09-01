@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-The first computer bug was an actual bug! In 1947, Grace Hopper, a computer scientist, removed a moth from the inside of her computer. Not only was this the first instance of a bug causing a technical glitch, but it's also the origin of the term "debugging" a program.
+Did you know that the first actual computer "bug" was a real bug? Grace Hopper, a programming pioneer, coined the term "debugging" in 1947 after removing a moth from a relay in the Harvard Mark II computer. The moth was causing the machine to malfunction, so when it was removed, they had "debugged" the system. The insect was taped into the computer's logbook and is now on display at the Smithsonian Museum.
