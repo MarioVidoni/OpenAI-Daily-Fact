@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first programmer in history was a woman? Ada Lovelace, a mathematician and writer, is recognized as the first programmer for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine in the mid-1800s. Even though the engine itself was never built in their lifetime, Ada’s notes on the engine included the first algorithm intended to be processed by it, making her effectively the first computer programmer.
+The first programming language, Fortran, was developed by IBM in the 1950s. It stands for "Formula Translation" and was created to make the process of programming easier. Despite such an innovation, it has a unique quirk: the original versions of Fortran ignored any text written past the 72nd column of a punch card. This was because in the 1920s, when IBM first produced punch cards, the last 8 columns were reserved for a sequence number used during card production. Even once the necessity for these columns vanished, the design stuck around, making programming in Fortran an art in concise code-writing.
