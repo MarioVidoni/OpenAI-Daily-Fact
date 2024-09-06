@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-The first programming language, Fortran, was developed by IBM in the 1950s. It stands for "Formula Translation" and was created to make the process of programming easier. Despite such an innovation, it has a unique quirk: the original versions of Fortran ignored any text written past the 72nd column of a punch card. This was because in the 1920s, when IBM first produced punch cards, the last 8 columns were reserved for a sequence number used during card production. Even once the necessity for these columns vanished, the design stuck around, making programming in Fortran an art in concise code-writing.
+Did you know that the first-ever computer bug was an actual bug? In 1947, a team of engineers working on the Mark II Aiken Relay Calculator at Harvard University discovered a moth stuck in the machine. This moth was causing the machine to malfunction, and once they had removed it, they declared they had "debugged" the machine - thus coining the term we still use today for fixing code. The moth is still preserved at the Smithsonian Museum as the first "real bug" in a computer program.
