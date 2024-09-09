@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first computer programmer was actually a woman? Ada Lovelace, the daughter of famous poet Lord Byron, was an English mathematician and writer who worked on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine. She is recognized for writing the algorithm intended to be processed by the machine, which technically makes her the world's first computer programmer, all the way back in the mid-1800s!
+Did you know that the first programmer in the world was a woman? Ada Lovelace, an English mathematician and writer, is known for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine. In her notes which explained the workings of the engine, she also included what is recognized as the first algorithm intended to be processed by a machine. Hence, Lovelace is often considered the world's first computer programmer. Quite curious, isn't it?
