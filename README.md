@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first programmer in the world was a woman? Ada Lovelace, an English mathematician and writer, is known for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine. In her notes which explained the workings of the engine, she also included what is recognized as the first algorithm intended to be processed by a machine. Hence, Lovelace is often considered the world's first computer programmer. Quite curious, isn't it?
+In 1965, a Soviet programmer named Alexey Pajitnov developed a computer game during his spare time to test the capabilities of a new type of computer. That game was 'Tetris', which went on to become one of the most popular video games in the world, yet Pajitnov didn't receive any royalties from it until 1996, because all software was owned by the Soviet government at the time.
