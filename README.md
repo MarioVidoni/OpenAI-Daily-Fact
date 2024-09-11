@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-In 1965, a Soviet programmer named Alexey Pajitnov developed a computer game during his spare time to test the capabilities of a new type of computer. That game was 'Tetris', which went on to become one of the most popular video games in the world, yet Pajitnov didn't receive any royalties from it until 1996, because all software was owned by the Soviet government at the time.
+Did you know that the first computer programmer was a woman? Ada Lovelace, a 19th century mathematician, is recognized as the first programmer for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. It's quite remarkable when we consider that this was a period when opportunities for women were severely limited. She wrote the world's first machine algorithm for an early computing machine that existed only on paper.
