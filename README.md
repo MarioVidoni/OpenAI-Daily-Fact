@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first programming language, called Assembly, was developed in the early 1940s? This language is pretty tough to understand as it's written in a binary format, essentially a series of 1s and 0s, and corresponds directly to machine code instructions. For a non-computer mind, it would be like trying to read a book written in an alien language!
+Did you know the first computer 'bug' was actually a moth? In 1947, Grace Hopper, an early computer scientist, discovered a moth in the Harvard Mark II computer she was working on. Since then, the term 'bug' has been adopted in programming parlance to denote any kind of glitch or issue in the code. Now that's a truly unusual piece of programming history!
