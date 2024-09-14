@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know the first computer 'bug' was actually a moth? In 1947, Grace Hopper, an early computer scientist, discovered a moth in the Harvard Mark II computer she was working on. Since then, the term 'bug' has been adopted in programming parlance to denote any kind of glitch or issue in the code. Now that's a truly unusual piece of programming history!
+Did you know that the first actual computer "bug" was a real insect? In 1947, engineers working on the Mark II computer at Harvard University discovered a moth stuck in one of the components. They taped it to their daily log where they wrote, “First actual case of bug being found." This was where the term 'debugging' originated from.
