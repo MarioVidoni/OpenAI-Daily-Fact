@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first programmer in the world was a woman? Lady Ada Lovelace, an English mathematician and writer, is recognized for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine, during the 1800s. She is credited with writing the first algorithm intended for processing by such a machine. Thus, she is often regarded as the world's first computer programmer, all this before the actual invention of a modern computer!
+Did you know the first computer bug was actually a real bug? In 1947, Grace Hopper, a computing pioneer, documented the first actual computer "bug" when a moth got trapped in the computer she was working on, causing it to malfunction. Thus, the term "debugging" the system was born!
