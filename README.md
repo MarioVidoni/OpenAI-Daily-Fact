@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first ever computer bug was an actual bug? While working on the Mark II computer in 1947, engineers from Harvard University discovered a moth that had short-circuited the computer. The moth was taped into their logbook and the term 'debugging' was born, referring to the process of removing errors from code.
+Did you know that the first computer programmer was a woman? Ada Lovelace, daughter of poet Lord Byron, received instruction from Charles Babbage on his early mechanical general-purpose computer, the Analytical Engine. She is recognized for writing the world's first algorithm for such a machine. So in effect, the roots of programming are entwined with those of poetry!
