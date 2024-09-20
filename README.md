@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first computer programmer was a woman? Ada Lovelace, daughter of poet Lord Byron, received instruction from Charles Babbage on his early mechanical general-purpose computer, the Analytical Engine. She is recognized for writing the world's first algorithm for such a machine. So in effect, the roots of programming are entwined with those of poetry!
+Did you know that the first programming language "bug" was actually a real bug? In 1947, Grace Hopper, a pioneer of computer programming, removed a moth from a relay in the Harvard Mark II computer. The moth was causing the machine to malfunction, and its removal solved the issue. This is why errors in the code are often referred to as "bugs" and fixing them is called "debugging".
