@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first known computer programmer was a woman? Ada Lovelace, an English mathematician and writer, is credited with writing instructions for the first computer program in the mid-1800s. However, the computer she wrote for, the Analytical Engine, was never built. It's quite curious to think she was pioneering a field for a machine that didn't even exist yet!
+Did you know that the first computer programmer was a woman? her name was Ada Lovelace and she wrote programs for Charles Babbage's analytical engine in the 19th century, which was a general-purpose computing machine. The interesting part? The machine was never built during their lifetimes, so her programs were never actually run. Ironically, she essentially wrote code for a machine that didn't exist yet. Talk about thinking ahead!
