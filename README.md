@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-The first computer programmer was actually a woman named Ada Lovelace. She wrote the world's first machine algorithm for an early computing machine that was never built. So, technically, the first computer program was written before the invention of a machine to run it.
+Did you know that the first actual computer "bug" was indeed a real insect? In 1947, a moth got trapped in a relay of a Mark II computer at Harvard University. Moth trapped were causing errors in the machine's functionality and was later removed and taped to a log book by the operators. Thus, the term "debugging" was coined. This makes debugging a much more literal term than we usually think!
