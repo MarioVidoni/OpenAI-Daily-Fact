@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first programmer in the world was a woman? Ada Lovelace, an English mathematician and writer, is recognized as the world's first programmer for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. In her notes, she described an algorithm to be processed by the machine, marking the world's first algorithm intended for processing on a computer. This was all in the mid-1800s, long before the electronic computers we know were invented!
+Did you know that in 1986, a bug in a single line of code in the software of a Soviet early warning system nearly started World War III? The false alarm for an incoming nuclear missile was fortunately recognized as a mistake by the duty officer, preventing a retaliatory attack. It turned out that the error in code led to a false detection when the satellite happened to align with the sun at a particular spot in the sky. Now that's a high-stakes debugging situation!
