@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that in 1986, a bug in a single line of code in the software of a Soviet early warning system nearly started World War III? The false alarm for an incoming nuclear missile was fortunately recognized as a mistake by the duty officer, preventing a retaliatory attack. It turned out that the error in code led to a false detection when the satellite happened to align with the sun at a particular spot in the sky. Now that's a high-stakes debugging situation!
+Did you know that the first computer programmer was actually a woman? Her name was Ada Lovelace and she wrote the world's first machine algorithm for an early computing machine that existed only on paper. This was back in the mid-1800s, a time when you wouldn't typically expect to find a female programmer!
