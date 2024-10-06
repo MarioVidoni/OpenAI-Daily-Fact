@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first computer bug was actually a real bug? In 1947, Grace Hopper, a computer scientist discovered a moth that had gotten stuck in a relay, causing errors in calculations. This event is where the term 'debugging' comes from in programming.
+Did you know that the first computer bug was an actual bug? In 1947, Grace Hopper, a computer scientist, reported finding a moth trapped between points in Relay #70, Panel F, of the Harvard University Mark II Aiken Relay Calculator. It was causing problems and malfunctioning of the computer. After this incident, any problem associated with computers started being referred to as a 'bug'.
