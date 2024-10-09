@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first computer "bug" was actually a real insect? Back in 1947, engineers working on the Mark II computer at Harvard University discovered a moth stuck in one of the components causing an error. Hence, they humorously referred to this as 'debugging' the system. This is believed to be the origin of the term "computer bug".
+Did you know that the first computer programmer was a woman? Ada Lovelace is credited with writing the world's first machine algorithm for an early computing machine in the mid-1800s. Interestingly, this happened almost a century before the invention of the modern computer!
