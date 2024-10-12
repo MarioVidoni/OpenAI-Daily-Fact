@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first computer bug was an actual bug? In 1947, U.S. Navy officer Grace Hopper reported the first computer bug when a moth got stuck in the Mark II Aiken Relay Calculator she was working on. They literally had to 'debug' the machine to fix it, which gave rise to the term we use today!
+The first computer programmer was a woman. Her name was Ada Lovelace and she worked on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. She wrote the first algorithm intended to be processed by a machine. Despite this historical fact, today's tech industry is often perceived as a male-dominant field.
