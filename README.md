@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first computer programmer was not only a woman, but she also lived in the 19th century? Ada Lovelace, an English mathematician and writer, is recognized for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine. Her notes on the engine include what is recognized as the first algorithm intended to be processed by a machine. Despite being from an era when women were not typically involved in such fields, she greatly contributed to the foundations of programming!
+Did you know that the first programming language, called Assembly, was created in the early 1940s and it's still in use today? It's considered to be a low-level programming language because it directly manipulates the hardware of the computer. Talk about longevity!
