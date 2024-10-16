@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first programming language, called Assembly, was created in the early 1940s and it's still in use today? It's considered to be a low-level programming language because it directly manipulates the hardware of the computer. Talk about longevity!
+Did you know that the first known computer programmer was a woman? Ada Lovelace, a British mathematician, is credited for writing the world's first machine algorithm for an early computing machine that existed only on paper, in the mid-1800s. This was long before the invention of the modern computer. So, while we often talk about the field of programming as being male-dominated, it was actually started by a woman!
