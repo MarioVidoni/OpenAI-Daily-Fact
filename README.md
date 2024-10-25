@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-The first actual computer "bug" was a dead moth which was stuck in a Harvard Mark II computer in 1947. The term "bug" was used to describe an issue with the machinery; however, a literal bug getting stuck in the computer was an ironic twist and so the use of the term "debugging" (removing problems from a program) was consequently born.
+Did you know that the first computer programmer was a woman? Ada Lovelace, daughter of famous poet Lord Byron, wrote the world's first machine algorithm for an early computing machine that existed only on paper in the mid-1800s. But she never got to see her program run, because the machine was never built. However, her work has been recognized and she's now celebrated as the world’s first computer programmer. How curious that the world of programming, today often considered a male-dominated field, was pioneered by a woman!
