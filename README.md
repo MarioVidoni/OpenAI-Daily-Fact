@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first "bug" in a computer program was actually a bug? In 1947, engineers working on the Mark II computer at Harvard University found a moth stuck in one of the components. This was causing an error, and so they dubbed it the 'first actual case of a bug being found'. The engineers taped the moth into their logbook and from that day forward, any problem with a computer program was referred to as a 'bug'.
+Did you know that the world's first computer programmer was actually a woman? Ada Lovelace, an English mathematician and writer, is recognized for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. She wrote the first algorithm intended to be processed by a machine and is often regarded as the first to recognize the full potential of a "computing machine" and the first computer programmer. Quite a curious and empowering piece of history in programming!
