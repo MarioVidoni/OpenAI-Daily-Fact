@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-The first computer "bug" was an actual bug. In 1947, Grace Hopper, a programming pioneer, was working on the Harvard Mark II computer when she found a moth causing trouble in a relay. This is where the term "debugging" originated from, which we use today to describe the process of finding and fixing issues in code. The moth is now preserved in the Smithsonian Museum.
+Did you know that the first computer programmer was a woman named Ada Lovelace? She was the first person to publish an algorithm intended for processing by a computer - a machine Charles Babbage had proposed but never built. This was back in the mid-19th century - a time when the actual construction of computers was many decades away!
