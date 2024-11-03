@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first computer programmer was a woman? Lady Ada Lovelace, an English mathematician and writer, is recognized as the first computer programmer. She worked on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine. In her notes, she described an algorithm intended to be processed by this machine. Her work on the engine, including her concept of looping, is what earned her the credit. Interestingly, this was all in the mid-1800s, more than a century before the development of the modern computer!
+Did you know that the first computer programmer was a woman? In the mid-1800s, Ada Lovelace wrote the world's first machine algorithm for an early computing machine which, technically, makes her the world's first computer programmer. Pretty interesting, considering the popular narrative that often wrongly suggests programming as a male-dominated field through most of history!
