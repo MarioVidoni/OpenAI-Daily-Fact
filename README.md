@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first computer programmer was a woman named Ada Lovelace? She worked on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine, and wrote what is recognized as the first algorithm intended to be processed by a machine. This was back in the 1840s, long before modern computers were even conceptualized! Interestingly, she was also the daughter of the famous poet Lord Byron. Quite a curious blend of arts and science in one family!
+Did you know that the first computer bug was an actual bug? In 1947, engineers working on the Mark II computer at Harvard University found a moth stuck in one of the components. They then taped the insect in their logs noting, "First actual case of bug being found". That's where the term 'debugging' comes from: fixing issues in the programming code!
