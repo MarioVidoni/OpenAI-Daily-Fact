@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first computer bug was an actual bug? In 1947, engineers working on the Mark II computer at Harvard University found a moth stuck in one of the components. They then taped the insect in their logs noting, "First actual case of bug being found". That's where the term 'debugging' comes from: fixing issues in the programming code!
+Did you know that the first actual computer "bug" was a moth? In 1947, researchers working on the Mark II computer at Harvard University discovered a moth stuck in one of the components. They taped this moth in their logbook and from then on, any problem with a computer program was referred to as a 'bug'. This is why fixing issues in a program is referred to as 'debugging'.
