@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first actual computer "bug" was a real bug? In 1947, researchers working on a Mark II computer at Harvard University discovered a moth stuck in one of the components. They taped the insect in their logbook and labeled it as the "First actual case of bug being found". This how the term "debugging" was born.
+Did you know that the first computer bug was actually a real bug? In 1947, engineers working on the Mark II computer at Harvard University found a moth stuck in one of the components. They actually taped it in their logbook and labeled it as the "first actual case of a bug being found." That's why today we call coding errors or glitches 'bugs'. Quite a curious turn of events, isn't it?
