@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first computer programmer was a woman? Her name was Ada Lovelace and she worked on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine. Bonus twist: all of this happened in the 19th century, long before what we know as modern computers were ever invented. Talk about being ahead of your time!
+Here's a curious fact: the first computer "bug" was an actual, living bug. In 1947, engineers working on the Mark II computer at Harvard University found a moth stuck in one of the components. The insect was causing an unexpected malfunction. They promptly removed the moth and taped it into the computer's logbook. Grace Hopper, a computer scientist and U.S. navy rear admiral, coined the term "debugging" to describe the process of removing errors from a computer program, inspired by this incident.
