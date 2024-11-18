@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first computer programmer was actually a woman? Her name was Ada Lovelace, and she worked on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine. Despite this machine not being built within her lifetime, Ada wrote the world's first machine algorithm for an early computing machine, making her the world's first programmer!
+Did you know that the first computer "bug" was actually a real bug? In 1947, a moth got trapped in a relay of a Mark II computer at Harvard University. The operators located the moth and removed it, making the first ever case of 'debugging'. It was recorded in the computer's logbook, and the logbook now resides in the Smithsonian Museum's History of American Technology.
