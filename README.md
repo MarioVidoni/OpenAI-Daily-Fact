@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first computer programmer was a woman? Ada Lovelace, an English mathematician and writer, is recognized as the world's first computer programmer. In her notes about Charles Babbage's early mechanical general-purpose computer, the Analytical Engine, she detailed an algorithm to be processed by the machine. Despite living in the 19th century, before the invention of the modern computer, her contributions are still celebrated today.
+Did you know that there is a language called "Whitespace" in programming? It's an esoteric programming language developed by Edwin Brady and Chris Morris at the University of Durham. The unique twist is that only spaces, tabs, and line breaks have meaning, which makes the code invisible!
