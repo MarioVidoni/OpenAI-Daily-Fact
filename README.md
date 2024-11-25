@@ -6,4 +6,4 @@
 
 ### Today's fact
 # 
-Did you know that the first computer "bug" was an actual bug? In 1947, a moth got stuck in a relay of the Harvard Mark II computer, causing it to malfunction. The operators literally had to "debug" the system. This incident is often credited with popularizing the term "debugging" in relation to fixing glitches in computer systems, even though the term was used in other fields prior to this. But it's still a funny fact that the first real computer bug was a literal bug!
+Did you know that the first computer bug was actually a real bug? Back in 1947, Grace Hopper, a pioneering computer scientist, discovered a moth causing issues in the Harvard Mark II machine. They literally had to debug the system and this is where the term "debugging" originated from.
