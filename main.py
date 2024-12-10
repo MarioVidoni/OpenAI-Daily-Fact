@@ -1,30 +1,41 @@
-import openai, sys
+from openai import OpenAI
+import sys
 
-# Access the key from the .env file on the root
-openai.api_key = sys.argv[1]
-
-response = openai.chat.completions.create(
-    model="gpt-4",
-    messages=[
-        {"role": "system", "content": "You are a curious assistant."},
-        {"role": "user", "content": "Give a funny, weird, curious or random fact about programming that could be actual or historical."}
-    ],
-    temperature=0.95,
-    n=1
+#
+client = OpenAI(
+    api_key = sys.argv[1]
 )
 
-fact = response.choices[0].message.content
+try:
+    completion = client.chat.completions.create(
+    model="gpt-3.5-turbo",
+    messages=[
+            {"role": "system", "content": "You are a creative and knowledgeable assistant that shares fun and interesting programming facts."},
+            {"role": "user", "content": "Give me a unique fact or curiosity about any engineering discipline that hasn’t been shared before and please don't greet me, just give me the fact"}
+        ],
+        temperature=1.0, 
+        max_tokens=100,  
+        presence_penalty=1.0, 
+        frequency_penalty=0.5,  
+        n=1, 
+    )
+
+    fact = completion.choices[0].message.content
+
+except Exception as e:
+    fact = "There seems to be an issue with the OpenAI API configuration. We're working on fixing it—thanks for your patience! 😊"
 
 header = '''
-# Openai-random-fact
- A fact about programming by OpenAI
+    # Openai-random-fact
+    A fact about Engineering by OpenAI
 
-[![fact](https://github.com/MarioVidoni/openai-daily-fact/actions/workflows/main.yml/badge.svg)](https://github.com/MarioVidoni/openai-daily-fact/actions/workflows/main.yml)
+    [![fact](https://github.com/MarioVidoni/openai-daily-fact/actions/workflows/main.yml/badge.svg)](https://github.com/MarioVidoni/openai-daily-fact/actions/workflows/main.yml)
 
-### Today's fact
-# 
-'''
+    ### Today's fact
+    # 
+    '''
 
 f = open('README.md', 'w')
 f.write(header + fact)
 f.close()
+
