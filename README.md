@@ -1,4 +1,3 @@
-
     # Openai-random-fact
     A fact about Engineering by OpenAI
 

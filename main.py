@@ -26,7 +26,7 @@ except Exception as e:
     fact = "There seems to be an issue with the OpenAI API configuration. We're working on fixing it—thanks for your patience! 😊"
 
 header = '''
-    # Openai-random-fact
+    # Openai-Random-Fact
     A fact about Engineering by OpenAI
 
     [![fact](https://github.com/MarioVidoni/openai-daily-fact/actions/workflows/main.yml/badge.svg)](https://github.com/MarioVidoni/openai-daily-fact/actions/workflows/main.yml)
